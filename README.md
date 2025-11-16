@@ -1,4 +1,3 @@
-```markdown
 # bootstrap-3.4.1-deb-patched
 
 **Patched Bootstrap 3.4.1** from Debian Bullseye (`twitter-bootstrap3_3.4.1+dfsg-2+deb11u2`)  
